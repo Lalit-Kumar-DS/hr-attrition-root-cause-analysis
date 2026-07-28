@@ -98,9 +98,8 @@ HR-Attrition-Analytics/
 │   ├── raw/                
 │
 ├── scripts/
-│   ├── sql/                # SQL queries
-│   └── python/             # Python scripts (cleaning, EDA, visualization)
-│
+│   ├── sql/                
+│   └── python/             
 ├── dashboard/
 │   └── HR_Analytics_Dashboard.pbix
 │
