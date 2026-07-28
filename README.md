@@ -91,7 +91,8 @@ By acting on these insights, attrition could be reduced from **16% → under 5%*
 ## 📂 Repository Structure
 
 HR-Attrition-Analytics/
-'''
+
+```
 │
 ├── data/
 │   ├── raw/                
@@ -107,7 +108,7 @@ HR-Attrition-Analytics/
 │   └── dashboard_screenshots.png
 │
 └── README.md
-'''
+```
 
 
 ---
